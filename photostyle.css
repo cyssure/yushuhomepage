@@ -1,0 +1,27 @@
+body {
+	background-color: #EFEDED;
+}
+
+h1 {
+	font-family: "Josefin Sans", "PT Sans Narrow", "Kozuka Gothic Pro",sans-serif;
+	font-size:48px;
+}
+
+#globalnav {
+	font-family: "Strait", sans-serif;
+	font-size: 36px;
+	text-decoration: none;
+	color:#111;
+}
+
+#globalnav a {
+	font-family: "Strait", sans-serif;
+	font-size: 36px;
+	text-decoration: none;
+	color:#111;
+
+}
+
+#globalnav a:hover{
+	color:purple;
+}

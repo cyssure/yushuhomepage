@@ -1,0 +1,181 @@
+@font-face {
+    font-family: "Josefin Slab";
+    src: url('JosefinSlab-Regular-webfont.ttf')
+    
+}
+
+body {
+	background-color:#EFEDED;
+}
+
+p {
+	color:#111;
+	font-weight: lighter;
+}
+h1 {
+	color:#111;
+	font-family:"Josefin Sans", "PT Sans Narrow", "Kozuka Gothic Pro",sans-serif;
+	text-align: center;
+	font-size: 96px;
+	height: 1.5em;
+}
+
+#summaryresume {
+	font-family: "Josefin Sans";
+	font-size:24px;
+	top:0px;
+	text-align: center;
+
+}
+
+#slide {
+	position:absolute;
+	width:100%;
+	top:320px;
+	background-color: black;
+	height:250px;
+	text-align:center;
+}
+
+#slogan {
+	position:relative;
+	font-size:80px;
+	color:white;
+	font-family:"Josefin Sans", sans-serif;
+	text-align: center;
+	top:35%;
+}
+
+h2 {
+	/**color:#111;*/
+	color:black;
+	font-family:"Josefin Slab";
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 1.25;
+	margin-top: 1.875em;
+	margin-bottom: 0.625em;
+	opacity: 0.5;
+}
+
+li {
+	color:#111;
+	font-family:"Josefin Slab";
+}
+
+.subcontent table tr th {
+	text-align:left;
+}
+
+
+#javaandc {
+	font-family: "Josefin Slab";
+	font-size: 20px;
+	line-height: 1.5;
+	margin-top: 1.5em;
+	margin-bottom:1.5em;
+}
+
+/*#familiar {
+	position:relative;
+}*/
+
+#familiar tr td {
+	color:#111;
+	font-family: "Josefin Slab";
+	text-align:left;
+	font-size:20px;
+	line-height: 1.5;
+	margin-top:1.5em;
+	margin-bottom: 1.5em;
+}
+
+
+.subcontent {
+	position:relative;
+	font-family:"Josefin Slab";
+	color:#111;
+	font-size: 20px;
+	line-height: 1.5;
+	margin-top:1.5em;
+	margin-bottom: 1.5em;
+	
+}
+
+
+#copyright {
+	color:blue;
+	font-size:14px;
+	font-family:Arial;
+	text-align: center;
+	position:relative;
+	margin-top:95%;
+}
+
+
+
+#textresume {
+	position:absolute;
+	width:50%;
+	left:10%;
+	top:620px;
+}
+#graphresume {
+	width:50%;
+	position:absolute;
+	left:75%;
+	top:300px;
+}
+
+.circle {
+	background-color:#F9F9F7;
+	width:150px;
+	height:150px;
+	-moz-border-radius:75px;
+	-webkit-border-radius:75px;
+	-o-border-radius:75px;
+	position:relative;
+	text-align: center;
+	/*border: 5px dashed #F3F3F1;*/
+	border:5px solid white;
+}
+
+.ctext {
+	position:relative;
+	text-align: center;
+	font-family:"Strait", sans-serif;
+	font-size: 22px;
+
+}
+
+#baidutext {
+	top:50px;
+}
+
+#nlptext {
+	top:50px;
+}
+
+#castext {
+	top:55px;
+}
+
+#interesttext {
+	top:45px;
+}
+
+#baidu {
+	top:0px;
+
+}
+#nlp {
+	top:50px;
+}
+
+#cas {
+	top:100px;
+}
+
+#interest {
+	top:150px;
+}
